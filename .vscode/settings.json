@@ -1,0 +1,9 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"D:/Projects/CubeRunner/.vscode": true,
+		"D:/Projects/CubeRunner/Content": true,
+		"D:/Projects/CubeRunner/Intermediate": true,
+		"D:/Projects/CubeRunner/Saved": true
+	}
+}
